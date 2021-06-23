@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=42bahn)](https://github.com/42bahn) -->
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=100&section=header&text=bahn&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=100&section=header&text=bahn&fontSize=90&fontAlign=70)
