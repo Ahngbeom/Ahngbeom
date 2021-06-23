@@ -1,3 +1,5 @@
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+
 ### Hi there 👋
 
 <!--
@@ -24,5 +26,5 @@ Here are some ideas to get you started:
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=42bahn&repo=Python_WebScraping)](https://github.com/42bahn/Python_WebScraping.git) -->
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=42bahn)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=42bahn)](https://github.com/42bahn)
 
