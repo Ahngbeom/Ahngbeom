@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=bahn&fontSize=90&fontAlign=80&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=bahn&fontColor=d6ace6&fontSize=90&fontAlign=80&animation=fadeIn)
 
 <!--
 **AhngBeom/AhngBeom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
