@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![bahn's 42 stats](https://badge42.herokuapp.com/api/stats/bahn?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
 [![bahn's 42 stats](https://badge42.herokuapp.com/api/stats/bahn)](https://github.com/JaeSeoKim/badge42)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=42bahn&show_icons=true&theme=dark)
