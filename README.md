@@ -20,4 +20,7 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=42bahn&repo=Python_WebScraping)](https://github.com/42bahn/Python_WebScraping.git)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=42bahn)](https://github.com/42bahn/Python_WebScraping.git)
+
+
 
