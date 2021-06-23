@@ -2,6 +2,8 @@
 
 ### Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=bahn&fontSize=90&fontAlign=80)
+
 <!--
 **AhngBeom/AhngBeom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,4 +30,3 @@ Here are some ideas to get you started:
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=42bahn)](https://github.com/42bahn) -->
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=100&section=header&text=bahn&fontSize=90&fontAlign=70)
