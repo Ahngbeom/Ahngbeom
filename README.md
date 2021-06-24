@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 [![bahn's 42 stats](https://badge42.herokuapp.com/api/stats/bahn?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
 [![bahn's 42 stats](https://badge42.herokuapp.com/api/stats/bahn)](https://github.com/JaeSeoKim/badge42)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=42bahn)](https://github.com/42bahn)
-![42bahn's GitHub stats](https://github-readme-stats.vercel.app/api?username=42bahn&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=42bahn)](https://github.com/42bahn?tab=repositories)
+[![42bahn's GitHub stats](https://github-readme-stats.vercel.app/api?username=42bahn&show_icons=true&theme=dark)](https://github.com/42bahn?tab=repositories)
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=42bahn&repo=Python_WebScraping)](https://github.com/42bahn/Python_WebScraping.git) -->
 
