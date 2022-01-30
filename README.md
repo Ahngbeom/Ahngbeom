@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![bahn's 42 stats](https://badge42.herokuapp.com/api/stats/bahn?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
+<!-- [![bahn's 42 stats](https://badge42.herokuapp.com/api/stats/bahn?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42) -->
 [![bahn's 42 stats](https://badge42.herokuapp.com/api/stats/bahn)](https://github.com/JaeSeoKim/badge42)
 
 [![Ahngbeom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahngbeom&show_icons=true&theme=dark)](https://github.com/Ahngbeom?tab=repositories)
