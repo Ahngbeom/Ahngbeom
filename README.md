@@ -1,4 +1,5 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 ### I am what i am 😎
 
@@ -28,5 +29,5 @@ Here are some ideas to get you started:
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=42bahn)](https://github.com/42bahn) -->
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
