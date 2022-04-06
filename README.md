@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <!-- [![bahn's 42 stats](https://badge42.herokuapp.com/api/stats/bahn?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42) -->
-[![bahn's 42 stats](https://badge42.herokuapp.com/api/stats/bahn)](https://github.com/JaeSeoKim/badge42)
+[![bahn's 42 stats](https://badge42.vercel.app/api/v2/cl1n6fb2j003009l0lfanbfyx/stats?cursusId=21&coalitionId=85)](https://github.com/JaeSeoKim/badge42)
 
 [![Ahngbeom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahngbeom&show_icons=true&theme=dark)](https://github.com/Ahngbeom?tab=repositories)
 
