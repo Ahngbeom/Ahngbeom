@@ -43,6 +43,8 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahngbeom&layout=compact)](https://github.com/Ahngbeom?tab=repositories)
 
+<a href="https://opgc.me/#/users/Ahngbeom" target="_blank"><img src="https://api.opgc.me/githubs/users/Ahngbeom/tag/?theme=basic" /></a>
+
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=42bahn&repo=Python_WebScraping)](https://github.com/42bahn/Python_WebScraping.git) -->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=42bahn)](https://github.com/42bahn) -->
