@@ -50,9 +50,9 @@ Here are some ideas to get you started:
 
 [![Ahngbeom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahngbeom&show_icons=true&theme=dark)](https://github.com/Ahngbeom?tab=repositories)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahngbeom&layout=compact)](https://github.com/Ahngbeom?tab=repositories) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahngbeom&layout=compact)](https://github.com/Ahngbeom?tab=repositories)
 
-<a href="https://opgc.me/#/users/Ahngbeom" target="_blank"><img src="https://api.opgc.me/githubs/users/Ahngbeom/tag/?theme=basic" /></a>
+<!-- <a href="https://opgc.me/#/users/Ahngbeom" target="_blank"><img src="https://api.opgc.me/githubs/users/Ahngbeom/tag/?theme=basic" /></a> -->
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=42bahn&repo=Python_WebScraping)](https://github.com/42bahn/Python_WebScraping.git) -->
 
