@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](jr-developer-ahngbeom.notion.site)
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://jr-developer-ahngbeom.notion.site/)
 
 <!-- [![bahn's 42 stats](https://badge42.herokuapp.com/api/stats/bahn?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42) -->
 [![bahn's 42 stats](https://badge42.vercel.app/api/v2/cl1n6fb2j003009l0lfanbfyx/stats?cursusId=21&coalitionId=85)](https://github.com/JaeSeoKim/badge42)
