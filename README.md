@@ -3,6 +3,7 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=capsule%20render&fontSize=90) -->
 
 <!-- ### I am what i am 😎  -->
+### 💻 I’m always working ...
 
 ### 학력
 
@@ -44,6 +45,8 @@
 
 - [개인 프로젝트] [MBTI 채팅 서비스](https://www.notion.so/MBTI-Chat-524177cd71a94106bc8647b2a62b5082) (2022.07~2022.10)
     - GitHub: https://github.com/Ahngbeom/MBTI-Chat.git
+
+---
 <!--
 **AhngBeom/AhngBeom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
