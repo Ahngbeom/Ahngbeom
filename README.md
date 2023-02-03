@@ -16,7 +16,7 @@
 - **42Seoul 소프트웨어 개발자 양성 교육 프로그램 (2020.12.21~2022.8.31)**
     - [개인 과제] [Docker 다중 컨테이너 웹 애플리케이션 구축](https://www.notion.so/Inception-6b39cf29a72d4b2ca959f08a3619847d) (2022.05~2022.07)
     - [팀 과제] [MiniLibX 그래픽 라이브러리를 통한 3D 구조체 그리기](https://www.notion.so/miniRT-2e10b631e792498faa1aef4c9fd24ade) (2022.03~2022.05)
-    - [etc](https://www.notion.so/9c3d2f006345493a9ceeffbf9d9ef1c5)
+<!--     - [etc](https://www.notion.so/9c3d2f006345493a9ceeffbf9d9ef1c5) -->
 
 ---
 
