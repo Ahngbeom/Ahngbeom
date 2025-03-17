@@ -22,20 +22,39 @@
 
 ### 경력
 
-- (주)플라잉닥터 Back-end 개발자 (2023-02 ~ )
+- (주)플라잉닥터 Full-stack 개발자 (2023-02 ~ )
 
 ---
 
 ### 기술 스택
 
+#### Back-end
 - **Spring:**
     - XML / Java 기반 코드로 Spring Context 환경을 커스터마이징 가능.
     - JWT를 통한 인증 방식 구현 가능.
     - 커뮤니티 웹 API 구축 경험.
+    - 특수한 기능에 대해서 모듈 구조로 분리하여 추상화. 필요한 도메인에서 주입 및 구현
+    - 단위 테스트 및 RestDoc 작성하여 API 문서화
 - **Node.js**: 간단한 상품 등록, 수정, 삭제 API 구축 경험
-- **DevOps**: Docker를 통해 Reverse Proxy 서버, 백엔드 API 서버 및 DB 프로세스를 격리 및 Docker Network를 통해 상호 통신하는 구조를 구축한 경험
+- **DevOps**
+    - Docker를 통해 Reverse Proxy 서버, 백엔드 API 서버 및 DB 프로세스를 격리 및 Docker Network를 통해 상호 통신하는 구조를 구축한 경험
+    - Kubernetes Helm Chart를 작성하여 각 모듈 인스턴스 배포
 - **Linux:** Debian 계열의 OS에서 App-Armor, OpenSSH 등 구축 경험
+- **Go lang** Go 언어를 통한 http 서버 구현 및 외부 프레임워크 서버와 통신
+
+#### Database
+- 복잡한 쿼리 성능 개선
+    - 2개 이상의 서브 쿼리를 포함한 쿼리에 대해서 JOIN 문과 MyBatis resultMap 방식을 통해 DB 쿼리에만 치중되어있던 부담을 감소시키고 서버 단에게 역할 분배
+    - 단일 인덱스, 다중 인덱스를 적절하게 구성하여 조회 성능 개선
+- 서비스 기능 변경에 의한 DB 테이블 또는 데이터 마이그레이션
+- MSSQL -> MySQL DB 마이그레이션
+
+#### Front-end
 - **HTML, CSS, JavaScript or JQuery**: 구현된 웹 서버의 기능을 확인하기 위한 간단한 코드 작성 가능.
+- **Vue**
+    - 반응형 웹 페이지, 컴포넌트 구현.
+    - 비동기방식 API 호출 방식을 통한 동적 렌더링 구현.
+    - 반응형 객체를 활용하여 실시간으로 변경되는 값에 대해서 사용자 인터렉션 개선
 
 ---
 
