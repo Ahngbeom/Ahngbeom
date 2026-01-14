@@ -62,9 +62,9 @@
 
 <div align="center">
 
-[![bahn's 42 stats](https://badge42.vercel.app/api/v2/cl1n6fb2j003009l0lfanbfyx/stats?cursusId=21&coalitionId=85)](https://github.com/JaeSeoKim/badge42)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahngbeom&theme=dark)](https://github.com/Ahngbeom)
 
-[![Ahngbeom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahngbeom&show_icons=true&theme=dark)](https://github.com/Ahngbeom?tab=repositories)
+[![Ahngbeom's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahngbeom&theme=dark)](https://github.com/Ahngbeom)
 
 </div>
 
