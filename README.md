@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=Ahngbeom&fontSize=60&fontAlignY=35&desc=Full-stack%20Developer%20|%20MSA%20%26%20Performance&descAlignY=55&descSize=20)
+![header](./assets/header.svg)
 
 <div align="center">
 
@@ -85,4 +85,4 @@
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer)
+![footer](./assets/footer.svg)
