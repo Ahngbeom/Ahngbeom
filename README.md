@@ -62,9 +62,10 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahngbeom&theme=dark)](https://github.com/Ahngbeom)
+[![Ahngbeom's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahngbeom&theme=github_dark)](https://github.com/Ahngbeom)
 
-[![Ahngbeom's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahngbeom&theme=dark)](https://github.com/Ahngbeom)
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahngbeom&theme=github_dark)](https://github.com/Ahngbeom)
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahngbeom&theme=github_dark)](https://github.com/Ahngbeom)
 
 </div>
 
